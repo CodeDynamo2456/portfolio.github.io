@@ -1,0 +1,67 @@
+.nav-link{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    margin-left: 10px;
+    color: white !important;
+    transition: 0.5s;
+}
+.nav-link:hover{
+    color: yellow !important;
+}
+
+.bg-img{
+    background-image: url('/images/banner-bg.png');
+    height: 100vh;
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+background-size: cover;
+    width: 100%;
+}
+
+.name1{
+    margin-top: 150px;
+    margin-left: 10px;
+font-size: 35px;
+font-family: Arial, Helvetica, sans-serif;
+color: white;
+}
+.name2{
+font-size: 65px;
+color: white;
+font-weight: bold;
+}
+.card-img{
+    height: 50px !important;
+
+}
+.btn-read{
+    border-radius: 0px;
+    background-color: rgb(43, 41, 41);
+    color: white;
+    font-weight: bold;
+   padding: 15px 25px;
+   transition: 0.5s;
+}
+
+.btn-read:hover{
+    background-color: yellow;
+    color: white;
+}
+.bgimg{
+    background-image: url('/images/blog-bg.png');
+}
+.card{
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    
+}
+.form-control{
+    border-radius: 0px;
+    height: 45px;
+    border: 1px solid black;
+}
+.form-control1{
+    border-radius: 0px;
+    height: 60px;
+}
